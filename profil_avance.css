@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6; 
+    margin: 0; 
+    padding: 0; 
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #4CAF50; 
+    color: white; 
+    padding: 20px; 
+    text-align: center; 
+}
+img {
+    width: 300px;
+}
+
+section {
+    margin: 20px; 
+    padding: 15px; 
+    background: white; 
+    border-radius: 5px; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+}
+
+h1, h2, h3 {
+    color: #333; 
+}
+
+ul, ol {
+    margin-left: 20px; 
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse; 
+    margin: 20px 0; 
+}
+
+th, td {
+    padding: 10px; 
+    border: 1px solid #ddd; 
+    text-align: left; 
+}
+
+th {
+    background-color: #f2f2f2; 
+}
+
+form {
+    margin: 20px; 
+    padding: 20px; 
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    background: #fff; 
+}
+
+label {
+    display: block; 
+    margin: 10px 0 5px; 
+}
+
+input, textarea {
+    width: 100%; 
+    padding: 10px; 
+    margin-bottom: 10px; 
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+}
+
+button {
+    padding: 10px 15px; 
+    background-color: #4CAF50; 
+    color: white; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+}
+
+button:hover {
+    background-color: #45a049; 
+}
+
+footer {
+    text-align: center; 
+    padding: 10px;
+    background: #4CAF50; 
+    color: white; 
+    position: relative; 
+    bottom: 0; 
+    width: 100%;
+}
